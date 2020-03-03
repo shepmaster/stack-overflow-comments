@@ -1,0 +1,26 @@
+callback(
+[
+{ "name": "[Q] MCVE", "description": "It's hard to answer your question because it doesn't include a [MRE]. We can't tell what crates (and their versions), types, traits, fields, etc. are present in the code. It would make it easier for us to help you if you try to reproduce your error on the <a href=\"https://play.rust-lang.org\">Rust Playground</a> if possible, otherwise in a brand new Cargo project, then [edit] your question to include the additional info. There are <a href=\"//$SITEURL$/tags/rust/info\">Rust-specific MRE tips</a> you can use to reduce your original code for posting here. Thanks!"},
+
+{ "name": "[Q] Duplicate", "description": "It looks like your question might be answered by the answers of [](). If not, please <strong>[edit]</strong> your question to explain the differences. Otherwise, we can mark this question as already answered."},
+
+{ "name": "[Q] Entire error", "description": "Please [edit] your question and paste the exact and entire error that you're getting — that will help us to understand what the problem is so we can help best. Sometimes trying to interpret an error message is tricky and it's actually a different part of the error message that's important. Please use the message from running the compiler directly, not the message produced by an IDE, which might be trying to interpret the error for you."},
+
+{ "name": "[Q] Repository link only", "description": "<a href=\"https://meta.stackoverflow.com/q/380194/155423\">To make $SITENAME$ a useful resource for future visitors beyond the context of your repository</a>, please [edit] your question to add a [MRE] in the question itself, in addition to the link to your repository."},
+
+{ "name": "[Q] Open-ended questions", "description": "Because this question in its current form appears off-topic, you may wish to look at other resources. More open-ended questions and discussions are welcome on <a href=\"https://users.rust-lang.org/\">the Rust users forum</a>, <a href=\"https://www.reddit.com/r/rust/\">the Rust subreddit</a>, <a href=\"https://www.rust-lang.org/community\">the Rust Discord server</a>, or <a href=\"https://chat.stackoverflow.com/rooms/62927/rust\">the $SITENAME$ Rust chat</a>."},
+
+{ "name": "[Q] More than one question asked", "description": "It's hard to answer multiple questions made in one post. Please separate them into multiple questions so that we can help you better and so that your questions will help others in the future that have one of the same questions as you!"},
+
+{ "name": "[Q] Answer in question", "description": "It's great that you have the solution to your question! You should post it as an answer rather than an edit to your question and then potentially accept that answer. That way, the question shows up as solved in search results, people can vote on your answer, and your solution can be more helpful to future people with the same problem."},
+
+{ "name": "[A] Answer adds nothing", "description": "Please [edit] your answer to highlight how it differs from the existing answers. As it is right now, it doesn't seem to add anything new."},
+
+{ "name": " Idiomatic style", "description": "By the way, idiomatic Rust uses `snake_case` for variables, methods, macros, fields and modules; `UpperCamelCase` for types and enum variants; and `SCREAMING_SNAKE_CASE` for statics and constants."},
+
+{ "name": "[C] Too localized", "description": "This question appears to be off-topic because it is too localized."},
+
+{ "name": "[EQ] Improper tagging", "description": "The tags you were using are not a great fit for this question. Please review <a href=\"//$SITEURL$/help/tagging\">What are tags, and how should I use them?</a>"},
+
+]
+)
